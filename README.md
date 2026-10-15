@@ -1,82 +1,130 @@
-<h1 align="center">Hello Guys! We Are OSSInsight! 👁️</h1>
-
 <div align="center">
-<a href="https://ossinsight.io">
-  <img src="/web/static/img/screenshots/homepage.gif" height=360
-</a>
+
+  <!-- Header Banner / Title -->
+  <a href="https://github.com/AndersonQuinatoa">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,23,30&height=220&section=header&text=Anderson%20Quinatoa&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20(Laravel)%20%26%20Applied%20AI%20(Python)&descAlignY=62&descAlign=50&descSize=19" width="100%" alt="Anderson Quinatoa Header"/>
+  </a>
+
+  <p align="center">
+    <a href="https://wa.me/593963188981?text=Hola%20Anderson,%20vi%20tu%20perfil%20de%20GitHub">
+      <img src="https://img.shields.io/badge/WhatsApp-Contactar-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    </a>
+    <a href="mailto:andersonquiantoa.re@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Enviar%20Correo-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://github.com/AndersonQuinatoa">
+      <img src="https://img.shields.io/badge/Portafolio-Ver%20Sitio%20Web-%23f43f5e?style=for-the-badge&logo=laravel&logoColor=white" alt="Portafolio"/>
+    </a>
+    <img src="https://img.shields.io/badge/Ubicación-Quito%2C%20Ecuador-%23007acc?style=for-the-badge&logo=google-maps&logoColor=white" alt="Ubicación"/>
+  </p>
+
+  <h3>
+    <b>Desarrollo de Software en Formación • Instituto Tecnológico Universitario Sucre</b>
+  </h3>
+
+  <p>
+    Apasionado por la creación de arquitecturas web sólidas con <b>Laravel & PHP</b>, desarrollo de asistentes inteligentes con <b>Python & APIs de IA</b>, optimización de bases de datos relacionales en <b>MySQL</b> y automatización de sistemas.
+  </p>
+
 </div>
 
-<h4 align="center">
-  <b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
-  •
-  <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b>
-  •
-  <b><a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a></b>
-  •
-  <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
-  •
-  <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
-  •
-  <a href="https://ossinsight.io/docs/workshop">Workshop</a>
-  •
-  <a href="https://ossinsight.io/blog">Blog</a>
-  •
-  <a href="https://ossinsight.io/docs">API</a>
-  •
-  <a href="https://twitter.com/OSSInsight">Twitter</a>
-</h3>
+---
 
-## Introduction
+## 🚀 Sobre Mí (About Me)
 
-OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data. 
- 
-[🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software](https://www.youtube.com/watch?v=6ofDBgXh4So&t=1s)
+- 🎓 **Educación:** Estudiante de 2do Semestre en **Tecnología Superior en Desarrollo de Software** (*Instituto Tecnológico Universitario Sucre*, Quito).
+- 💼 **Experiencia Previa:** 1.5 años como Técnico de Soporte Informático, Hardware y Ensamblaje de Computadoras en *JBL Modulares*.
+- 🤖 **Enfoque Actual:** Desarrollo Backend con **Laravel**, integración de LLMs (**Google Gemini API & Ollama LLaMA 3.2**) y creación de interfaces limpias con **Tailwind CSS**.
+- 💬 **Habilidades Blandas:** Comunicación efectiva con clientes no técnicos, trabajo colaborativo en equipo, adaptabilidad rápida y resolución metódica de fallas.
+- ⚡ **Dato Curioso:** Me encanta entender la tecnología desde el hardware físico hasta la capa lógica del software.
 
-## Embed Real-time Widget in Repo's / Personal README.md within 30s!
+---
 
-For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
+## 🛠️ Stack Tecnológico (Tech Stack)
 
+<div align="center">
 
-| Repository Activity Trends | Collaborative Productivity - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
+### Backend & Inteligencia Artificial
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama%20LLM-000000?style=for-the-badge&logo=linux&logoColor=white)
 
-| Repository Performance Stats - Last 28 days | Active Contributors - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=100&image_size=auto"/>|
+### Frontend & Diseño Web
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white)
 
-| Star Geographic Distribution | Star History |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />|
+### Bases de Datos & Herramientas
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=apache&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-| Company Affiliation | Lines of Code Changes |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|
+</div>
 
-| Pull Request Size | Pull Request Lifecycle |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&image_size=auto" />|
+---
 
-| Currently Working On - Last 28 days | Top Active Contributors - Last 28 Days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto" />|
+## 🌟 Proyectos Destacados (Featured Projects)
 
-| Repository Annual Ranking | Find More |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" />|<a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral">Visit our website</a >|
+| Proyecto | Descripción | Tecnologías Principales | Enlaces |
+| :--- | :--- | :--- | :---: |
+| 🤖 **SofIA 1.0** | Asistente virtual de escritorio y voz con arquitectura de IA híbrida (Google Gemini 2.5 Flash + Ollama LLaMA 3.2 local offline), reconocimiento de voz (Vosk), síntesis neural (Edge-TTS), análisis de PDFs/Word y automatización en Windows. | `Python` `FastAPI` `Gemini API` `Ollama` `Edge-TTS` | [Código / Repo](#) |
+| 🌐 **Portafolio Web Editorial** | Sitio web personal interactivo inspirado en la estética dark minimalista de Max Böck. Incluye catálogo filtrable por tecnologías, contador de likes interactivo, formulario conectado a BD y panel administrativo. | `Laravel 12` `Tailwind CSS` `Alpine.js` `MySQL` | [Código / Repo](#) |
+| 🛠️ **Sistema de Gestión & Soporte** | Aplicación web para seguimiento de reparaciones de hardware, emisión de tickets técnicos, gestión de clientes y control de inventario informático. | `PHP` `Laravel` `MySQL` `Tailwind CSS` | [Código / Repo](#) |
+| ⚡ **API RESTful de Control de Inventario** | Servicio backend modular con arquitectura MVC, endpoints JSON estructurados, validaciones estrictas y transacciones de base de datos. | `PHP` `Laravel` `MySQL` `REST APIs` | [Código / Repo](#) |
 
-## Contact us
+---
 
-<a href="https://twitter.com/OSSInsight" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+## 📊 Estadísticas de GitHub (GitHub Stats)
 
-<a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
-<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=AndersonQuinatoa&show_icons=true&theme=radical&hide_border=true&title_color=f43f5e&icon_color=f43f5e&text_color=94a3b8&bg_color=0c1017" width="100%" alt="GitHub Stats"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonQuinatoa&layout=compact&theme=radical&hide_border=true&title_color=f43f5e&text_color=94a3b8&bg_color=0c1017" width="100%" alt="Top Languages"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndersonQuinatoa&theme=radical&hide_border=true&stroke=f43f5e&ring=f43f5e&fire=f43f5e&background=0c1017&currStreakLabel=f43f5e" width="95%" alt="Streak Stats"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<a href="mailto:ossinsight@pingcap.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+---
 
-## Sponsors
-<a href="https://en.pingcap.com/tidb-cloud/?utm_source=ossinsight&utm_medium=referral">
-<img src="/web/static/img/tidb-cloud-logo-w.png" height=50 />
-</a>
+## 📬 Conéctate Conmigo (Connect With Me)
+
+<div align="center">
+
+  <a href="https://wa.me/593963188981?text=Hola%20Anderson,%20vi%20tu%20perfil%20de%20GitHub" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B593%2096%20318%208981-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  &nbsp;
+  <a href="mailto:andersonquiantoa.re@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-andersonquiantoa.re%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/AndersonQuinatoa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-AndersonQuinatoa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <br><br>
+  
+  <p align="center">
+    <i>"El buen código es su mejor documentación; pero las mejores soluciones nacen de entender el problema real."</i> 🚀
+  </p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,23,30&height=100&section=footer" width="100%"/>
+
+</div>
